@@ -16,8 +16,12 @@ Users can browse products, add them to a shopping cart, update quantities, and p
 - HTML, CSS, JavaScript
 - MySQL Database
 ---
+
 ##🧠 Purpose
 This project demonstrates the fundamentals of e-commerce systems, MVC architecture, and backend–frontend integration using Laravel, while maintaining a simple and understandable structure.
+
 ---
+
 ##📌 Status
 The project is functional and can be extended with features such as user authentication, product search, and order management.
+---
