@@ -1,7 +1,9 @@
 #📦 Laravel E-Commerce2
 A simple and modern E-Commerce Web Application built to demonstrate core online shopping functionality.
+
 ---
 Users can browse products, add them to a shopping cart, update quantities, and proceed to checkout. The application focuses on a clean structure and practical e-commerce logic.
+
 ---
 ##🚀 Features
 - Product listing
@@ -24,4 +26,5 @@ This project demonstrates the fundamentals of e-commerce systems, MVC architectu
 
 ##📌 Status
 The project is functional and can be extended with features such as user authentication, product search, and order management.
+
 ---
