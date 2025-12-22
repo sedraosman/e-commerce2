@@ -1,37 +1,23 @@
 📦 Laravel E-Commerce2
+A simple and modern E-Commerce Web Application built to demonstrate core online shopping functionality.
 
-A Laravel based E-Commerce Website featuring product listing, shopping cart, checkout, and basic admin dashboard functionality. Products are displayed with session-based cart management.
-GitHub
+Users can browse products, add them to a shopping cart, update quantities, and proceed to checkout. The application focuses on a clean structure and practical e-commerce logic.
 
-Project Overview
+🚀 Features
+Product listing
+Add and remove products from cart
+Shopping cart management
+Checkout page
+Simple and clean user interface
 
-The application focuses on core e-commerce features with a clean and minimal structure. It is suitable for educational purposes and small-scale projects.
+⚙️ Technologies
+PHP (Laravel Framework)
+Blade Templates
+HTML, CSS, JavaScript
+MySQL Database
 
-🛠️ Features
+🧠 Purpose
+This project demonstrates the fundamentals of e-commerce systems, MVC architecture, and backend–frontend integration using Laravel, while maintaining a simple and understandable structure.
 
-✔️ Product display list
-✔️ Add to cart with quantity management via Sessions
-✔️ Shopping cart overview
-✔️ Checkout process
-✔️ Simple admin dashboard
-✔️ Designed with Laravel + Blade Templates
-✔️ Frontend using Tailwind / Bootstrap via Laravel Mix/Vite setup
-
-
-| Layer           | Technology                                |
-| --------------- | ----------------------------------------- |
-| Backend         | PHP (Laravel)                             |
-| Frontend        | Blade Templates, Tailwind CSS / Bootstrap |
-| Cart Management | PHP Sessions                              |
-| Build Tool      | Vite / Laravel Mix                        |
-| Dependencies    | Composer, NPM                             |
-
-
-
-Purpose
-
-This project was created to practice web development concepts such as MVC architecture, backend–frontend integration, and basic e-commerce logic.
-
-Status
-
-The project is functional and open for future improvements such as user authentication, product search, and order history.
+📌 Status
+The project is functional and can be extended with features such as user authentication, product search, and order management.
