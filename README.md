@@ -4,17 +4,17 @@ A simple and modern E-Commerce Web Application built to demonstrate core online 
 Users can browse products, add them to a shopping cart, update quantities, and proceed to checkout. The application focuses on a clean structure and practical e-commerce logic.
 
 🚀 Features
-Product listing
-Add and remove products from cart
-Shopping cart management
-Checkout page
-Simple and clean user interface
+- Product listing
+- Add and remove products from cart
+- Shopping cart management
+- Checkout page
+- Simple and clean user interface
 
 ⚙️ Technologies
-PHP (Laravel Framework)
-Blade Templates
-HTML, CSS, JavaScript
-MySQL Database
+- PHP (Laravel Framework)
+- Blade Templates
+- HTML, CSS, JavaScript
+- MySQL Database
 
 🧠 Purpose
 This project demonstrates the fundamentals of e-commerce systems, MVC architecture, and backend–frontend integration using Laravel, while maintaining a simple and understandable structure.
