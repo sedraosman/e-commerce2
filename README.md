@@ -37,4 +37,4 @@ The project is functional and can be extended with features such as user authent
 
 ---
 ## ⚙️ Design overview
-![Description](e-Commerce2.png)
+![Description](e-commerce2.png)
